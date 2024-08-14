@@ -17,7 +17,7 @@
 - 📫 How to reach me **mdsaif9170.0@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
-
+<br><br>
 <h3 align="left">Connect with me:</h3>
 <div id="badges">
   <a href="https://github.com/12saif">
@@ -33,14 +33,12 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-
+<br>
 <h3 align="left">Languages and Tools:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,scss,tailwind,bootstrap,babel,javascript,ts,nodejs,react,vite,redux,git,gitlab,github,netlify,postman,mongodb,firebase,mysql,materialui,wordpress,npm,yarn,pnpm&perline=20)](https://skillicons.dev)
 
-
-[![Saif's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=12saif&&theme=xcode)](https://github.com/12saif)
-
+<br><br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=12saif&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="saif" /></p>
 
 
